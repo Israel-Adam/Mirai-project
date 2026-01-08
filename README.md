@@ -1,1 +1,1 @@
-# Mirai-project
+# SimpleCalculator
